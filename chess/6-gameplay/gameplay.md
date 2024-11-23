@@ -131,7 +131,7 @@ public class ServerMessage {
 }
 ```
 
-Here are the different command types that a user game command can represent.
+Here are the different command types that a ServerMessage can represent.
 
 | Command          | Required Fields                                        | Description                                                                                                                         |
 | ---------------- | ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
